@@ -136,6 +136,7 @@ body {
     padding: 0 15px;
 }
 
+
 .flex-wrapper {
     display: flex;
     justify-content: space-between;
@@ -149,6 +150,10 @@ body {
     margin-left: 35px;
     text-transform: uppercase;
 
+}
+
+.header_menu_item:hover {
+    color: #3C9DFB;
 }
 
 .section_title {
@@ -289,6 +294,10 @@ body {
     text-transform: uppercase;
 
 
+}
+
+.btn:hover {
+    background: #0078a5;
 }
 
 .cap-content {
